@@ -1,9 +1,5 @@
-
-function saludo() {
   alert ("Bienvenido/a al Gimnasio de Entrenamiento los Mellis")
-}
-let acumulado = 0
-
+  
 let deporte = prompt("Ingrese un deporte");
 
 function clasedeSpining() {
@@ -29,7 +25,6 @@ function funcionalTraining() {
   }
 }
 
-saludo();
 clasedeSpining();
 fuerza();
 funcionalTraining();
